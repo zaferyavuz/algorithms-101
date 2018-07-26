@@ -1,4 +1,9 @@
 
+# Hamming sayıları, 2,3 ve 5’ten başka diğer asal bölene sahip olmayan dizilerdir. Örnek verecek olursak hamming dizisi şöyledir.
+
+# İlk 60 Hamming Sayısı: 2 3 4 5 6 8 9 10 12 15 16 18 20 24 25 27 30 32 36 40 45 48 50 54 60… şeklinde gider.
+
+
 def ishamming(sayi):
     if(sayi==1):
         return 1
